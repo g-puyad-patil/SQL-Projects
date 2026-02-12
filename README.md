@@ -11,13 +11,13 @@ Welcome to the **Codex Empirica**. This is my centralized technical archive. It 
 This Codex is currently structured into two primary pillars of data expertise:
 
 ### 🛡️ [Module I: Structural Logic (SQL)](./01-Structural-Logic-SQL)
-*The foundation of data—focusing on schema navigation, relational integrity, and high-performance querying.*
-* **Featured Artifact:** `Northwind Traders Performance Audit` — Architecting multi-join query systems to inform executive decisions regarding employee performance and bonus structures.
+* **Featured:** Northwind Traders Performance Audit (Joins & Aggregations).
 
 ### ⚙️ [Module II: Systemic Wrangling Engine (Python)](./02-Systemic-Wrangling-Engine)
-*The transformation layer—focusing on automated cleaning, statistical imputation, and ETL logic.*
-* **Featured Artifact:** `Empirical Synthesis Pipeline` — Resolving data entropy in global health and morphology datasets (WHO & Kyphosis) using the Pandas logic engine.
+* **Featured:** Empirical Synthesis Pipeline (Pandas & ETL).
 
+### ⚡ [Module III: Algorithmic Optimization (SQL)](./03-Algorithmic-Optimization-SQL)
+* **Featured:** Query Performance Profiling & Indexing (B-Tree, Unique, & Composite Indexes).
 ---
 
 ## 🛠️ The Technical Stack
