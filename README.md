@@ -14,10 +14,13 @@ This Codex is currently structured into two primary pillars of data expertise:
 * **Featured:** Basic Syntax & Retrieval Logic (The "Genesis" of Structural Logic).
 
 ### 🛡️ [Module I: Structural Logic (SQL)](./01-Structural-Logic-SQL)
-* **Featured:** Northwind Traders Performance Audit (Joins & Aggregations).
+* **Featured:** Northwind Traders Performance Audit.
+
+### 🧩 [Module Ib: Pattern Architecture (SQL)](./01b-Pattern-Architecture-SQL)
+* **Featured:** Social Media Hashtag Extraction & Advanced RegEx Filtering.
 
 ### ⚙️ [Module II: Systemic Wrangling Engine (Python)](./02-Systemic-Wrangling-Engine)
-* **Featured:** Empirical Synthesis Pipeline (Pandas & ETL).
+* **Featured:** Empirical Synthesis Pipeline.
 
 ### ⚡ [Module III: Algorithmic Optimization (SQL)](./03-Algorithmic-Optimization-SQL)
 * **Featured:** Query Performance Profiling & Indexing logic.
