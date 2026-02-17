@@ -26,10 +26,13 @@ This Codex is currently structured into two primary pillars of data expertise:
 * **Featured:** Query Performance Profiling & Indexing logic.
 
 ### 📉 [Module IV: Statistical Inference (Python)](./04-Statistical-Inference-Python)
-* **Featured:** World Bank Science & Tech Analysis (T-Tests).
+* **Featured:** World Bank Science & Tech Analysis.
 
 ### 🔬 [Module V: Analytical Methodologies (Python)](./05-Analytical-Methodologies-Python)
-* **Featured:** Exploratory vs. Confirmatory Analysis (EDA/CDA) using Plotly.
+* **Featured:** Exploratory vs. Confirmatory Analysis (EDA/CDA).
+
+### ⏳ [Module VI: Temporal Dynamics Analysis](./06-Temporal-Dynamics-Analysis)
+* **Featured:** Time Series Visualization & Key Moment Detection.
 ---
 
 ## 🛠️ The Technical Stack
